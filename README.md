@@ -6,13 +6,15 @@
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C](https://img.shields.io/badge/-C-4169E1?style=for-the-badge&logo=C&logoColor=white)
   
-  <h1>🎮 Check out my TETRIS via CLI on pure C 😄</h1>
+  <h2>🎮 Check out TETRIS via CLI on pure C 😄</h2>
   
   ![Tetris - GitHub](https://github.com/Ro0kly/c_brick_game)
 
-![Description](https://github.com/Ro0kly/Ro0kly/blob/main/tetrisgif.gif)
+<div align="center">
+  <img src="https://github.com/Ro0kly/Ro0kly/blob/main/tetrisgif.gif" width="600" />
+</div>
 
-  <h1>🧑‍💻 Check out my FastAI - template for you AI 🤖</h1>
+  <h1>🧑‍💻 Check out FastAI - template for you AI 🤖</h1>
 
 ![FastAI - GitHub](https://github.com/Ro0kly/FastAI)
 
