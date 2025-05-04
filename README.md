@@ -7,8 +7,8 @@
   ![C](https://img.shields.io/badge/-C-4169E1?style=for-the-badge&logo=C&logoColor=white)
   
   <h2>🎮 Check out TETRIS via CLI on pure C 😄</h2>
-  <h3>Based of FSM (Finite State Machine).</h3>
-  <h3>Using "ncurses.h" for user interface.</h3>
+  <h3>Based on FSM (Finite State Machine).</h3>
+  <h3>Made with "ncurses.h" for user interface.</h3>
   
   ![Tetris - GitHub](https://github.com/Ro0kly/c_brick_game)
 
