@@ -14,7 +14,7 @@
   <img src="https://github.com/Ro0kly/Ro0kly/blob/main/tetrisgif.gif" width="600" />
 </div>
 
-  <h1>🧑‍💻 Check out FastAI - template for you AI 🤖</h1>
+  <h2>🧑‍💻 Check out FastAI - template for you AI 🤖</h2>
 
 ![FastAI - GitHub](https://github.com/Ro0kly/FastAI)
 
